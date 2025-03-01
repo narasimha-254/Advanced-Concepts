@@ -4,6 +4,9 @@ import UseReducer from './assets/UseReducer'
 import CustomHookApp from './assets/CustomHookApp'
 import Home from './assets/Home'
 import UseContext from './assets/UseContext'
+import UseMemo1 from './assets/UseMemo1'
+
+
 
 const App = () => {
   return (
@@ -12,7 +15,8 @@ const App = () => {
       {/* <UseReducer /> */}
       {/* <CustomHookApp /> */}
       {/* <Home /> */}
-      <UseContext />
+      {/* <UseContext /> */}
+      <UseMemo1 />
     </div>
   )
 }
