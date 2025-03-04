@@ -5,6 +5,7 @@ import CustomHookApp from './assets/CustomHookApp'
 import Home from './assets/Home'
 import UseContext from './assets/UseContext'
 import UseMemo1 from './assets/UseMemo1'
+import Appp from './assets/LifeCycleMethods/Appp'
 
 
 
@@ -16,7 +17,8 @@ const App = () => {
       {/* <CustomHookApp /> */}
       {/* <Home /> */}
       {/* <UseContext /> */}
-      <UseMemo1 />
+      {/* <UseMemo1 /> */}
+      <Appp />
     </div>
   )
 }
