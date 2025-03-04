@@ -6,6 +6,10 @@ import Home from './assets/Home'
 import UseContext from './assets/UseContext'
 import UseMemo1 from './assets/UseMemo1'
 import Appp from './assets/LifeCycleMethods/Appp'
+import Axios from './assets/Axios'
+import LazyApp from './assets/LazyApp'
+import LazyRoute from './assets/LazyRoute'
+
 
 
 
@@ -18,7 +22,10 @@ const App = () => {
       {/* <Home /> */}
       {/* <UseContext /> */}
       {/* <UseMemo1 /> */}
-      <Appp />
+      {/* <Appp /> */}
+      {/* <Axios /> */}
+      {/* <LazyApp /> */}
+    <LazyRoute />
     </div>
   )
 }
