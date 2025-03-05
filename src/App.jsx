@@ -9,6 +9,8 @@ import Appp from './assets/LifeCycleMethods/Appp'
 import Axios from './assets/Axios'
 import LazyApp from './assets/LazyApp'
 import LazyRoute from './assets/LazyRoute'
+import HigherOrder from './assets/HigherOrder'
+import EX from './assets/EX'
 
 
 
@@ -25,7 +27,9 @@ const App = () => {
       {/* <Appp /> */}
       {/* <Axios /> */}
       {/* <LazyApp /> */}
-    <LazyRoute />
+    {/* <LazyRoute /> */}
+  {/* < HigherOrder />    */}
+  <EX />
     </div>
   )
 }
